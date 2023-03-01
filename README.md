@@ -2,4 +2,4 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=pvayssier.pvayssier)
 [![Follow](https://img.shields.io/github/followers/pvayssier?label=Follow&style=social)](https://github.com/pvayssier)
 
-![Pvayssier's GitHub stats](https://github-readme-stats.vercel.app/api?username=pvayssier&count_private=true&show_icons=true&theme=radical) ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pvayssier&theme=radical&count_private=true)
+![Pvayssier's GitHub stats](https://github-readme-stats.vercel.app/api?username=pvayssier&count_private=true&show_icons=true&theme=radical) ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pvayssier&theme=radical&count_private=false)
